@@ -1,4 +1,4 @@
 beginning-coding
 ================
 
-Beginner online coding courses.
+Starting my coding journey with beginner online coding courses.
